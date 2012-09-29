@@ -1,4 +1,3 @@
-
 #######################################
 # Matt Green
 # 9/28/2012
@@ -56,7 +55,7 @@ def traverse_matrix(matrix, i, j, direction, stop_char):
 	i_next = i
 	j_next = j
 
-	# Logic is similar for each case but is slightlt different
+	# Logic is similar for each case but is slightly different
 	# depending on the direction
 	if direction == 0: # Moving left
 		if matrix[i][j+1] == stop_char: # check if next spot is visitable
