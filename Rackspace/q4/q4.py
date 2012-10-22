@@ -3,6 +3,8 @@
 # 9/28/2012
 # Rackspace Question 4
 #
+# Tested on Python 2.7.3
+#
 # Some Notes:
 # Strings in Python are immutable objects
 # and are not really meant to be manipulated in

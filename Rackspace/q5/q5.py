@@ -2,6 +2,8 @@
 # Matt Green
 # 9/28/2012
 # Rackspace Question 5
+#
+# Tested on Python 2.7.3
 #######################################
 
 import sys
